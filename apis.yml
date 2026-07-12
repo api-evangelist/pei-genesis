@@ -14,6 +14,10 @@ tags:
   - Cable Assembly
   - Manufacturing
 common:
+  - type: VulnerabilityDisclosure
+    url: security/pei-genesis-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/pei-genesis-domain-security.yml
   - type: Website
     url: https://www.peigenesis.com/
   - type: LinkedIn
